@@ -10,3 +10,4 @@
 - restore
 - branch
 - switch
+- merge
