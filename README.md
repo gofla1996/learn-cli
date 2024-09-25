@@ -13,4 +13,4 @@
 - merge
 
 ## Git 병합 방법 (3가지 방식)
-- 3Way
+- 3Way merge
